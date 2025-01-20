@@ -10,6 +10,13 @@
 - **🎓 Education:** Computer Science Student at [UTM](https://www.utm.my/)
 - 📫 How to reach me **joey17hui@gmail.com**
 
+#  📚 Assignments & Projects
+-   **🖼️ [Assignment 1: Poster of Industry Talk](https://github.com/eiizhihui/SECP1513/blob/980504b916158caa19b68c2c8a74a1a500ae82d3/Assignment%201.pdf)**
+-   **🎥 [Assignment 2: Video on Industry Visit to UTMDigital](https://github.com/eiizhihui/SECP1513/blob/980504b916158caa19b68c2c8a74a1a500ae82d3/Assignment%202.mp4)**
+-   **📄 [Assignment 3: Report on Industry and Academic Skills](https://github.com/eiizhihui/SECP1513/blob/980504b916158caa19b68c2c8a74a1a500ae82d3/Assignment%203.pdf)**
+-   **💡 [Design Thinking Project](https://github.com/eiizhihui/SECP1513/tree/980504b916158caa19b68c2c8a74a1a500ae82d3/Design%20Thinking%20Project)**
+-   **📝 [Reflections](https://github.com/eiizhihui/SECP1513/blob/980504b916158caa19b68c2c8a74a1a500ae82d3/README.md)**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/hui051018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hui051018" height="30" width="40" /></a>
