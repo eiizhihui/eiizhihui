@@ -3,6 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eiizhihui&label=Profile%20views&color=0e75b6&style=flat" alt="eiizhihui" /> </p>
 
+# 🚀About Me
+
+- **💻 Programming Languages:** C++, Java, HTML, SQL, PHP
+- **🌟 Aspiration:** Passionate about and eager to further study **Computer Science**
+- **🎓 Education:** Computer Science Student at [UTM](https://www.utm.my/)
 - 📫 How to reach me **joey17hui@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
