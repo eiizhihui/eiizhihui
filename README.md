@@ -14,6 +14,7 @@
 -   **🖼️ [Assignment 1: Poster of Industry Talk](https://github.com/eiizhihui/SECP1513/blob/980504b916158caa19b68c2c8a74a1a500ae82d3/Assignment%201.pdf)**
 -   **🎥 [Assignment 2: Video on Industry Visit to UTMDigital](https://github.com/eiizhihui/SECP1513/blob/980504b916158caa19b68c2c8a74a1a500ae82d3/Assignment%202.mp4)**
 -   **📄 [Assignment 3: Report on Industry and Academic Skills](https://github.com/eiizhihui/SECP1513/blob/980504b916158caa19b68c2c8a74a1a500ae82d3/Assignment%203.pdf)**
+-   **🌟 [Assignment 4:Newsletter on Industry Talk](https://github.com/eiizhihui/SECP1513/blob/578fb563d5bb8339c70290202346b40fc21a3228/assignment%204.pdf)**
 -   **💡 [Design Thinking Project](https://github.com/eiizhihui/SECP1513/tree/980504b916158caa19b68c2c8a74a1a500ae82d3/Design%20Thinking%20Project)**
 -   **📝 [Reflections](https://github.com/eiizhihui/SECP1513/blob/980504b916158caa19b68c2c8a74a1a500ae82d3/README.md)**
 
